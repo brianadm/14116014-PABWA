@@ -1,2 +1,2 @@
 # 14116014-PABWA
-praktikum Pemrograman Web
+praktikum Pemrograman Web dari kelas RC
